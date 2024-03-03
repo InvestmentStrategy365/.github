@@ -2,6 +2,9 @@
 
 Welcome to the Scitudy Team! We are a group of passionate developers dedicated to creating a revolutionary English learning software. Our mission is to help users improve their vocabulary and phrase learning skills in small, contextualized scenarios. With the integration of AI technology, we aim to provide an immersive and personalized learning experience.
 
+
+<img src="https://github.com/ScitudyTeam/.github/assets/6711309/d80a4bb6-e8d6-4581-90ac-44c4e07e09ad" alt="cute_ai" width="300" height="300">
+
 ## Features
 
 **Contextualized Learning:** 
