@@ -5,6 +5,10 @@ Welcome to the Scitudy Team! We are a group of passionate developers dedicated t
 
 <img src="https://github.com/ScitudyTeam/.github/assets/6711309/d80a4bb6-e8d6-4581-90ac-44c4e07e09ad" alt="cute_ai" width="300" height="300">
 
+## Download
+
+[<img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">](https://apps.apple.com/us/app/scitudy/id6479497379)
+
 ## Features
 
 **Contextualized Learning:** 
